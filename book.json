@@ -1,0 +1,49 @@
+{
+    "root": "./",
+    "title": "面试知识点梳理",
+    "author": "chen",
+    "description": "最近准备面试，刚好梳理下前端的一些知识点",
+    "language": "zh-hans",
+    "copyright": "All Rights Reserved",
+    "plugins": [
+        "theme-code@0.0.20",
+        "-sharing",
+        "-lunr",
+        "-search",
+        "search-pro",
+        "splitter",
+        "tbfed-pagefooter",
+        "expandable-chapters-small",
+        "github",
+        "-sharing-plus",
+        "code",
+        "-copy-code-button",
+        "anchor-navigation-ex",
+        "edit-link"
+    ],
+    "pluginsConfig": {
+        "tbfed-pagefooter": {
+            "copyright": "Copyright &chen 2020",
+            "modify_label": "修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+        "expandable-chapters": {},
+        "theme-default": {
+            "showLevel": false
+        },
+        "github": {
+            "url": "https://github.com/liuchen114113"
+        },
+        "anchor-navigation-ex": {
+            "showLevel": false
+        },
+        "edit-link": {
+            "base": "https://github.com/liuchen114113",
+            "label": ""
+        },
+        "fontSettings": {
+            "family": "serif",
+            "size": 2
+        }
+    }
+}
