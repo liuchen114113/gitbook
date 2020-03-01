@@ -1,6 +1,6 @@
 # Summary
 
-* [简介11](README.md)
+* [简介](README.md)
 * 第一章 [HTML/CSS基础](HTML语义化.md)
     * [HTML语义化](HTML语义化.md)
     * [meta标签有什么作用](meta标签有什么作用.md)
@@ -9,8 +9,21 @@
     * [盒模型](盒模型.md)
     * [CSS普通流（文档流）](CSS普通流（文档流）.md)
     * [CSS布局](CSS布局.md)
+    
     * [CSS选择器](CSS选择器.md)
     * [CSS动画](CSS动画.md)
-* 第二章 GitBook相关
-    * [Git的使用](第二章 GitBook相关/Git的使用.md)
-    * [Markdown语法介绍](第二章 Markdown语法介绍.md)
+* 第二章 [JavaScript](作用域和作用域链.md)
+    * [作用域和作用域链](作用域和作用域链.md)
+    * [闭包](闭包.md)
+    * [原型](原型.md)
+    * [继承](继承.md)
+    * [垃圾回收机制](垃圾回收机制.md)
+* 第三章 [浏览器](浏览器运行机制.md)
+    * [浏览器运行机制](浏览器运行机制.md)
+    * [宏任务和微任务](宏任务和微任务.md)
+    * [跨域](跨域.md)
+* 第四章 [原理性知识实现方案](this指向的改变.md)
+    * [this指向的改变](this指向的改变.md)
+    * [instanceof的实现](instanceof的实现.md)
+    * [深拷贝和浅拷贝的实现](深拷贝和浅拷贝的实现.md)
+    * [节流和防抖](节流和防抖.md)
